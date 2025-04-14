@@ -1,2 +1,2 @@
 # Jewellery-DEMO
-This Is First DEMO
+This is First Demo
